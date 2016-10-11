@@ -1,0 +1,26 @@
+/*
+
+selector {properties: value;
+        properties: value;
+      }
+
+*/
+
+h1 {
+  font-family: Helvetica,sans-serif;
+  color: red;
+}
+ol {
+  font-family: Georgia;
+  color: blue;
+}
+ul {
+  font-family: Helvetica, sans-serif;
+  color: #333333;
+}
+
+.kids,
+.kids li {
+  color: #999999;
+
+}
