@@ -8,7 +8,7 @@ selector {properties: value;
 
 html {
 
-  background-color:#D3CFC6;
+  background-color:#D3D7DA;
 font-family: 'EB Garamond', serif;
 
   /*background-image: url();*/
@@ -19,7 +19,7 @@ font-family: 'EB Garamond', serif;
 
 body {
 
-  background-color: #D3CFC6;
+  background-color: #D3D7DA;
 
   max-width: 700px;
   padding: 20px;
@@ -36,7 +36,7 @@ div#fixedheader {
 	width:20%;
   text-align: left;
 
-	background:#D3CFC6;
+	background:#D3D7DA;
 	padding:20px;}
 
 h1 {
