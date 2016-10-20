@@ -25,11 +25,9 @@ body {
   max-width: 700px;
 
   padding: 20px;
-  margin: auto;
-  margin-top: 3em;
   margin-bottom: 3em;
 
-padding-left: 20%;
+  padding-left: 340px;
 
 
 
@@ -41,10 +39,7 @@ div#fixedheader {
 	position:fixed;
 	top:20px;
 	left:30px;
-	width:20%;
-  
-
-min-width: 238px;
+  width: 300px;
   text-align: left;
 
 	background:transparent;
